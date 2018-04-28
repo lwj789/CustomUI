@@ -19,7 +19,7 @@ CFileView::CFileView()
 }
 
 CFileView::~CFileView()
-{
+{  //kkkk
 }
 
 BEGIN_MESSAGE_MAP(CFileView, CDockablePane)
