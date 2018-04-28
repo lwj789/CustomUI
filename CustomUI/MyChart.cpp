@@ -21,7 +21,7 @@ CMyChart::~CMyChart()
 
 
 BEGIN_MESSAGE_MAP(CMyChart, CWnd)
-	ON_WM_PAINT()
+	ON_WM_PAINT()     /// kkkkk
 	ON_WM_ERASEBKGND()
 END_MESSAGE_MAP()
 
